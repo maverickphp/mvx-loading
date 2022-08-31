@@ -8,5 +8,6 @@
 ```
 1. Open resource (mvx-loading)
 2. Now open index.html in your vscode or any editor.
-3. Now at line 12 edit your youtube link  https://cdn.discordapp.com/attachments/689754044054372375/1014336807074267156/unknown.png
+3. Now at line 12 edit your youtube link
 ```
+https://cdn.discordapp.com/attachments/689754044054372375/1014336807074267156/unknown.png
