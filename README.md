@@ -11,3 +11,21 @@
 3. Now at line 12 edit your youtube link
 ```
 ![EDIT_YOUTUBE_LINK](https://cdn.discordapp.com/attachments/689754044054372375/1014336807074267156/unknown.png)
+
+<b> Now to change logos in loading screen: </b>
+```
+1. Open resource ( mvx_loading)
+2. Follow this path in loadingscreen mvx-loading\assets\media
+3. Replace filled-logo & logo according to your server
+```
+![LOGOS](https://cdn.discordapp.com/attachments/689754044054372375/1014337763413327913/unknown.png)
+
+<b> Change background sound: </b>
+```
+1. Open resource ( mvx_loading)
+2. Follow this path in loadingscreen mvx-loading\assets\media
+3. Replace song.mp3 with your song ( format must be in mp3)
+```
+![SONG](https://cdn.discordapp.com/attachments/689754044054372375/1014337763413327913/unknown.png)
+
+<b> Now to change fade text
