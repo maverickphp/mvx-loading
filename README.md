@@ -16,9 +16,9 @@
 ```
 1. Open resource ( mvx_loading)
 2. Follow this path in loadingscreen mvx-loading\assets\media
-3. Replace filled-logo & logo according to your server
+3. Replace logo, filled-logo & logo according to your server
 ```
-![LOGOS](https://cdn.discordapp.com/attachments/689754044054372375/1014337763413327913/unknown.png)
+![LOGOS](https://cdn.discordapp.com/attachments/689754044054372375/1014338901810360380/unknown.png)
 
 <b> Change background sound: </b>
 ```
@@ -26,6 +26,13 @@
 2. Follow this path in loadingscreen mvx-loading\assets\media
 3. Replace song.mp3 with your song ( format must be in mp3)
 ```
-![SONG](https://cdn.discordapp.com/attachments/689754044054372375/1014337763413327913/unknown.png)
+![SONG](https://cdn.discordapp.com/attachments/689754044054372375/1014338901810360380/unknown.png)
 
-<b> Now to change fade text
+<b> Now to change fade text in loading screen </b>
+```
+1. Open resource ( mvx_loading)
+2. Follow this path in loadingscreen mvx-loading\assets\css
+3. Now open style.css
+4. Replace your servername with MAVIX at line no: 364
+```
+![FADE](https://cdn.discordapp.com/attachments/689754044054372375/1014338709207928903/unknown.png)
